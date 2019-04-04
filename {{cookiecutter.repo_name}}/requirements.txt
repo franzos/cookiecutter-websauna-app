@@ -1,2 +1,2 @@
-websauna[dev,celery,utils,notebook]
+websauna[dev,celery,utils,notebook]==master
 -e ".[dev,test]"
